@@ -1,0 +1,4 @@
+/.dockerignore
+/.env
+/dist
+/node_modules
