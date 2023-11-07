@@ -34,3 +34,6 @@ Body:
 GET /searchUsers/:page/:limit
 
 POST /signOut
+
+## Adicional
+Crear el archivo .env siguiendo el archivo de ejemplo
